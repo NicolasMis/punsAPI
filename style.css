@@ -1,0 +1,30 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    align-items: center;
+    cursor: pointer;
+    background-color: rgb(194, 223, 253);
+    border-color: rgb(177, 177, 177);
+}
+
+form{
+    align-items: center;
+    display: block;
+}
+
+#div2{
+    text-align: center;
+    padding-top: 13%;
+    display: block;
+}
+
+input, button {
+    display: block;  
+    margin: 10px auto;
+}
